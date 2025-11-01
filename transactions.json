@@ -1,0 +1,32 @@
+[
+    {
+        "transaction_id": "4432d774",
+        "user_id": "U1",
+        "book_id": "B3",
+        "borrow_date": "2025-10-30T16:19:56.665055",
+        "due_date": "2025-11-13T16:19:56.665055",
+        "return_date": null,
+        "fine": 0,
+        "status": "Borrowed"
+    },
+    {
+        "transaction_id": "9f5971d5",
+        "user_id": "U2",
+        "book_id": "B1",
+        "borrow_date": "2025-10-30T17:42:08.660252",
+        "due_date": "2025-11-13T17:42:08.660252",
+        "return_date": null,
+        "fine": 0,
+        "status": "Borrowed"
+    },
+    {
+        "transaction_id": "c5d8380f",
+        "user_id": "U3",
+        "book_id": "B5",
+        "borrow_date": "2025-10-30T18:02:21.962646",
+        "due_date": "2025-11-13T18:02:21.962646",
+        "return_date": "2025-10-30T18:02:50.241724",
+        "fine": 0,
+        "status": "Returned"
+    }
+]

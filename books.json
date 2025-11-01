@@ -1,0 +1,42 @@
+[
+    {
+        "book_id": "B1",
+        "title": "Computer science",
+        "author": "Anil",
+        "isbn": "123",
+        "total_copies": 10000,
+        "available_copies": 9999
+    },
+    {
+        "book_id": "B2",
+        "title": "Devops",
+        "author": "Darshan",
+        "isbn": "1234",
+        "total_copies": 1000,
+        "available_copies": 1000
+    },
+    {
+        "book_id": "B3",
+        "title": "Artificial intelligence",
+        "author": "Darshan",
+        "isbn": "133",
+        "total_copies": 100000,
+        "available_copies": 99999
+    },
+    {
+        "book_id": "B4",
+        "title": "Blockchain development",
+        "author": "Anil",
+        "isbn": "12334",
+        "total_copies": 1000,
+        "available_copies": 1000
+    },
+    {
+        "book_id": "B5",
+        "title": "python",
+        "author": "sumant",
+        "isbn": "123",
+        "total_copies": 1000,
+        "available_copies": 1000
+    }
+]
